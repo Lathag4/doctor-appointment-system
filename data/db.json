@@ -1,0 +1,249 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. Sunita Sharma (Senior)",
+      "email": "sunita@example.com",
+      "role": "DOCTOR",
+      "specialty": "Cardiologist",
+      "experience": 12,
+      "about": "Board-certified cardiologist with over 12 years of experience in cardiovascular health.",
+      "rating": 4.9,
+      "reviewsCount": 124,
+      "consultationFee": 200,
+      "availability": [
+        "Mon",
+        "Tue",
+        "Thu"
+      ],
+      "image": "/doctors/doctor-1.png"
+    },
+    {
+      "id": "2",
+      "name": "Dr. Rajesh Khanna",
+      "email": "rajesh@example.com",
+      "role": "DOCTOR",
+      "specialty": "Dermatologist",
+      "experience": 8,
+      "about": "Specialist in skin health and cosmetic dermatology.",
+      "rating": 4.8,
+      "reviewsCount": 89,
+      "consultationFee": 120,
+      "availability": [
+        "Wed",
+        "Fri",
+        "Sat"
+      ],
+      "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Priya Verma",
+      "email": "priya@example.com",
+      "role": "DOCTOR",
+      "specialty": "Pediatrician",
+      "experience": 10,
+      "about": "Dedicated pediatrician focused on adolescent health and preventative care.",
+      "rating": 4.9,
+      "reviewsCount": 156,
+      "consultationFee": 130,
+      "availability": [
+        "Mon",
+        "Wed",
+        "Fri"
+      ],
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "4",
+      "name": "Dr. Amit Shah",
+      "email": "amit@example.com",
+      "role": "DOCTOR",
+      "specialty": "Neurologist",
+      "experience": 15,
+      "about": "Senior neurologist with expertise in neurodegenerative disorders.",
+      "rating": 4.7,
+      "reviewsCount": 210,
+      "consultationFee": 200,
+      "availability": [
+        "Tue",
+        "Thu",
+        "Sat"
+      ],
+      "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "5",
+      "name": "Dr. Anjali Gupta",
+      "email": "anjali@example.com",
+      "role": "DOCTOR",
+      "specialty": "Psychiatrist",
+      "experience": 9,
+      "about": "Specializing in mental wellness and therapeutic consultation.",
+      "rating": 4.9,
+      "reviewsCount": 180,
+      "consultationFee": 140,
+      "availability": [
+        "Mon",
+        "Tue",
+        "Fri"
+      ],
+      "image": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "6",
+      "name": "Dr. Vikram Singh",
+      "email": "vikram@example.com",
+      "role": "DOCTOR",
+      "specialty": "Orthopedic",
+      "experience": 11,
+      "about": "Expert in sports medicine and bone health.",
+      "rating": 4.8,
+      "reviewsCount": 135,
+      "consultationFee": 160,
+      "availability": [
+        "Wed",
+        "Thu",
+        "Sat"
+      ],
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "7",
+      "name": "Dr. Kavita Reddy",
+      "email": "kavita@example.com",
+      "role": "DOCTOR",
+      "specialty": "Gynecologist",
+      "experience": 7,
+      "about": "Compassionate care for women's health and maternity wellness.",
+      "rating": 4.9,
+      "reviewsCount": 95,
+      "consultationFee": 110,
+      "availability": [
+        "Tue",
+        "Fri"
+      ],
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "8",
+      "name": "Dr. Sanjay Patil",
+      "email": "sanjay@example.com",
+      "role": "DOCTOR",
+      "specialty": "Oncologist",
+      "experience": 18,
+      "about": "Specialist in cancer treatment and clinical research.",
+      "rating": 5,
+      "reviewsCount": 320,
+      "consultationFee": 250,
+      "availability": [
+        "Mon",
+        "Wed",
+        "Fri"
+      ],
+      "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "9",
+      "name": "Dr. Neha Kapoor",
+      "email": "neha@example.com",
+      "role": "DOCTOR",
+      "specialty": "Ophthalmologist",
+      "experience": 6,
+      "about": "Expert in vision correction and eye surgery.",
+      "rating": 4.6,
+      "reviewsCount": 75,
+      "consultationFee": 100,
+      "availability": [
+        "Mon",
+        "Thu",
+        "Sat"
+      ],
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "id": "10",
+      "name": "Dr. Arjun Mehta",
+      "email": "arjun@example.com",
+      "role": "DOCTOR",
+      "specialty": "Dentist",
+      "experience": 13,
+      "about": "Modern dentistry and oral health specialist.",
+      "rating": 4.8,
+      "reviewsCount": 240,
+      "consultationFee": 90,
+      "availability": [
+        "Tue",
+        "Wed",
+        "Fri"
+      ],
+      "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&q=80&w=200&h=200"
+    },
+    {
+      "name": "Dr. Manoj Kumar",
+      "email": "p@yash.com",
+      "specialty": "Cardiologist",
+      "experience": 15,
+      "consultationFee": 100,
+      "id": "08swvt2gc",
+      "role": "DOCTOR",
+      "about": "Cardiologist with 15 years of expertise.",
+      "rating": 5,
+      "reviewsCount": 0,
+      "availability": [
+        "Mon",
+        "Wed",
+        "Fri"
+      ],
+      "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=200&h=200"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "role": "ADMIN",
+      "status": "Active",
+      "joined": "2023-12-01"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "PATIENT",
+      "status": "Active",
+      "joined": "2024-03-15"
+    },
+    {
+      "id": "3",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "PATIENT",
+      "status": "Suspended",
+      "joined": "2024-04-01"
+    }
+  ],
+  "reports": {
+    "bookingTrends": [
+      30,
+      45,
+      25,
+      60,
+      75,
+      50,
+      90
+    ],
+    "revenueFlow": [
+      1200,
+      1500,
+      1100,
+      1800,
+      2200,
+      2000,
+      2500
+    ],
+    "totalAppointments": 428,
+    "weeklyRevenue": 12300
+  }
+}
